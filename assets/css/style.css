@@ -58,7 +58,8 @@ html {
 
  */
 
-#main {}
+
+/* #main {} */
 
 .text-white {
     color: #fff important;
@@ -170,7 +171,8 @@ html {
     font-size: 24px;
 }
 
-#content {}
+
+/* #content {} */
 
 #content .content-section {
     max-width: 70%;
